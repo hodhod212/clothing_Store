@@ -66,3 +66,16 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+<!-- Instructions for project -->
+git remote
+git remote remove origin
+git remote 
+git remote add origin git@github.com........
+git push origin
+<!--  -->
+yarn start
+yarn add node-sass
+rm -rf yarn.lock
+rm -rf node_modules
+yarn

@@ -79,3 +79,11 @@ yarn add node-sass
 rm -rf yarn.lock
 rm -rf node_modules
 yarn
+<!-- sätta sidan i github -->
+--------------------
+--------------------
+git remote add origin https://github.com/hodhod212/clothing.git
+git status
+git add -A 
+git commit -m "created project with create react app and added files for homepage"
+git push origin master

@@ -87,3 +87,11 @@ git status
 git add -A 
 git commit -m "created project with create react app and added files for homepage"
 git push origin master
+<!-- React Router Dom -->
+yarn add react-router-dom
+yarn start
+<!-- Man skulle lägga den i package.json, men det behövdes inte eftersom det gick att starta med yarn start utmärkt  -->
+//"resolutions": {
+    //"babel-jest":"24.7.1"
+  //},
+<!--  -->
